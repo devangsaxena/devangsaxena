@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Devang Saxena</h1>
-<h3 align="center">Self-motivated and Determined Programming Enthusiast.</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devangsaxena&label=Profile%20views&color=0e75b6&style=flat" alt="devangsaxena" /> </p>
 
